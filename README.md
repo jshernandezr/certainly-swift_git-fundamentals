@@ -1,4 +1,4 @@
-# Git - A practical guide
+# Git - Fundamentals
 Author: Jose Hernandez  
 Date: Jan 2020
 
