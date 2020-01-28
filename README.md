@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-hello jose
-=======
-
 # Git - A practical guide
 Author: Jose Hernandez  
 Date: Jan 2020
@@ -517,5 +513,3 @@ Nice tutorial: https://www.atlassian.com/git/tutorials/comparing-workflows
 
 ---
 ## The end. Enjoy!
-
->>>>>>> ca8f4ef... Adding guides.
