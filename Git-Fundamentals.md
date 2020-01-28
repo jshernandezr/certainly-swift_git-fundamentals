@@ -1,6 +1,7 @@
 # Git Fundamentals
 By Jose Hernandez, January 2020
 
+
 ## Setup
 
 * Install from: http://git-scm.com
