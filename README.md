@@ -1,6 +1,4 @@
 # Git - Fundamentals
-Author: Jose Hernandez  
-Date: Jan 2020
 
 ## Setup
 
